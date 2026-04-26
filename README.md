@@ -1,5 +1,11 @@
 # DevOps with Claude Code — Terraform, EKS, ArgoCD & Helm
 
+> **This is the companion repository for the Udemy course:**
+> ### [DevOps with Claude Code — Terraform, EKS, ArgoCD & Helm](https://www.udemy.com/course/draft/7093081/?referralCode=1C5B734505D65A010FA3)
+> Build a production-grade AWS infrastructure for 8 microservices using AI. Zero code written by you — Claude Code does it all.
+
+---
+
 Course companion repository. Every section has two files:
 - `article.md` — what you're building, key concepts, and external links
 - `prompts.md` — the exact Claude Code prompts to copy and paste
